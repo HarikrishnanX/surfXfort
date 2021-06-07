@@ -1,0 +1,8 @@
+1.Copy all the files into a single folder.
+2.Open Google Chrome.
+3.Go to Extensions > Manage Extensions > Load Unpacked
+4.Navigate to the folder with all the files.
+5.Click Select Folder.
+6.That's it. Now you can use the extension in Google Chrome.
+
+Note: This is a one-time process. You don't have to do this every time you open Google Chrome.
